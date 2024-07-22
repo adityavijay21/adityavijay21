@@ -4,4 +4,4 @@ I'm a passionate, self-taught Software Engineer from [India](https://en.wikipedi
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - **Hobbies:** Procrastinating, Hiding Dead Bodies
-- **Loves:** Open Source, RHELL9, Js and sometimes to add trash on Github
+- **Loves:** Open Source, RHEL9, Js and sometimes to add trash on Github
